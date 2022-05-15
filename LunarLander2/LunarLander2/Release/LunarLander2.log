@@ -1,0 +1,7 @@
+﻿  Game.cpp
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 123 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LunarLander2.vcxproj -> C:\Users\cook0\source\repos\LunarLander2\Release\LunarLander2.exe
